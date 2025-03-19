@@ -60,8 +60,8 @@ uvicorn main:app --reload
 ```
 
 2. Open the interactive API documentation in your browser:
-API Docs: http://127.0.0.1:8000/docs
-Redoc Docs: http://127.0.0.1:8000/redoc
+- API Docs: http://127.0.0.1:8000/docs
+- Redoc Docs: http://127.0.0.1:8000/redoc
 
 🌍 Learn FastAPI
 This project is designed to help you learn FastAPI by example. Once you are comfortable with the basics, you can extend it by adding more advanced features such as:
