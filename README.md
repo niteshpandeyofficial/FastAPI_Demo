@@ -31,10 +31,8 @@ Make sure you have **Python 3.7+** installed on your system.
 ### Step-by-Step Guide
 
 1. Clone this repository:
-
    ```bash
    git clone https://github.com/niteshpandeyofficial/FastAPI_Demo.git 
-   
    ```
 
 
@@ -76,6 +74,7 @@ Check out the official FastAPI Documentation for more detailed information.
 
 
 ⭐️ Star this project!
+
 If you found this project useful, please give it a ⭐️ to show your support!
 
 Happy coding! 🎉
